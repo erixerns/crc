@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\erixe\source\repos\crc_datacheck\crc_datacheck\source.cpp(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\erixe\source\repos\crc_datacheck\crc_datacheck\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\erixe\source\repos\crc_datacheck\crc_datacheck\source.cpp(34): warning C4018: '<=': signed/unsigned mismatch
+c:\users\erixe\source\repos\crc_datacheck\crc_datacheck\source.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  CRC_DataCheck.vcxproj -> C:\Users\ErixE\source\repos\CRC_DataCheck\Debug\CRC_DataCheck.exe
